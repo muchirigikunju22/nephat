@@ -9,7 +9,7 @@ export default function About({ about }) {
             <p key={idx}>{para}</p>
           ))}
           <div style={{ marginTop: '24px' }}>
-            <a href="mailto:gikunjunephat@gmail.com" className="btn">
+            <a href="mailto:kunjuinfotech2@gmail.com" className="btn">
               Contact Me
             </a>
           </div>
