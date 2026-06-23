@@ -37,12 +37,13 @@ export default function Projects({ projects }) {
         <h2 className="section-title">Key Projects</h2>
         <p
           style={{
-            fontFamily: "'Share Tech Mono', monospace",
-            fontSize: '0.72rem',
-            color: 'var(--muted)',
-            letterSpacing: '2px',
-            marginTop: '-32px',
-            marginBottom: '36px'
+            fontFamily: 'var(--font-body)',
+            fontSize: '0.8rem',
+            color: 'var(--color-muted)',
+            letterSpacing: '1px',
+            marginTop: '-48px',
+            marginBottom: '48px',
+            textTransform: 'uppercase'
           }}
         >
           // CLICK A CARD TO VIEW FULL DETAILS
